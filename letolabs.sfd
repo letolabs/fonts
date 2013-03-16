@@ -1,0 +1,90 @@
+SplineFontDB: 3.0
+FontName: Untitled2
+FullName: Untitled2
+FamilyName: Untitled2
+Weight: Medium
+Copyright: Created by jleto with FontForge 2.0 (http://fontforge.sf.net)
+UComments: "2013-3-16: Created." 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 368 -13881326 4569336]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1363453764
+ModificationTime: 1363457109
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 64 16 4
+BeginChars: 256 1
+
+StartChar: L
+Encoding: 76 76 0
+Width: 1000
+VWidth: 0
+Flags: HO
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+206 598 m 0
+ 206 595.333333333 206 592.666666667 206 590 c 0
+ 202.884582256 558.414670527 238.283013413 544.731045648 270 542 c 0
+ 340.672514671 538.429976777 408.136057393 517.002940325 480 522 c 0
+ 563.109500286 527.779019594 646 556.942495594 646 662 c 0
+ 646 709.309443137 610.972094802 722 568 722 c 0
+ 401.425845789 657.233134807 462.395507812 489.758789062 410 344 c 0
+ 382.705078125 268.069335938 333.507582403 12 216 12 c 0
+ 196.860195803 5.27592674257 193.355308172 25.9203190841 192 40 c 0
+ 173.576978547 116.056172096 257.297913905 162.676256013 324 152 c 0
+ 385.466897236 160.863961166 440.713899569 131.614468538 492 104 c 0
+ 549.751387658 72.9043646497 573.903140871 50 644 50 c 0
+ 663.415544178 50 676 57.8678754669 676 80 c 0
+ 676 111.178287788 663.384392774 98.9529537718 650 118 c 0
+ 646 126 l 1
+178 602 m 24
+  Spiro
+    178 602 {
+    0 0 z
+  EndSpiro
+276.500015259 618 m 24
+  Spiro
+    276.5 618 {
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
